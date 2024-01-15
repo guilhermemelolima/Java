@@ -6,6 +6,12 @@ public class Program{
 
     public static void main(String[] args){
 
+        /*
+         * Fazer um programa para ler os valores da largura e altura de um retângulo, 
+         * ele ainda deve mostrar na tela o valor de sua área, perímetro e diagonal. 
+         * Seguir a mesma estrutura do exercício "triangulo".
+         */
+
         Scanner sc = new Scanner(System.in);
 
         Triangulo x = new Triangulo();
