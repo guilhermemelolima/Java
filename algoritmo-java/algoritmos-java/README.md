@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-Neste repositório estão alguns algoritmos simples em java que foram realizados como uma forma de praticar a linguagem e exercitar a lógica de programação e orientação a objeto.
+Neste repositório estão alguns algoritmos simples em java que foram realizados como uma forma de praticar a linguagem e exercitar a lógica de programação.
 
 ## Exercícios
 
