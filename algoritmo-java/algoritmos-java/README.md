@@ -166,10 +166,14 @@ Exemplo: [ValorPeca.java](ValorPeca.java)
 ---
 Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.
 
+Exemplo: [ParImpar.java](ParImpar.java)
+
 ---
 Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro casas decimais conforme exemplos. 
 Fórmula da área: area = π . raio2
 Considere o valor de π = 3.14159
+
+Exemplo: [AreaCirculo.java](AreaCirculo.java)
 
 ---
 Fazer um programa que leia três valores com ponto flutuante de dupla precisão: 
@@ -179,3 +183,5 @@ b) a área do círculo de raio C. (pi = 3.14159)
 c) a área do trapézio que tem A e B por bases e C por altura.
 d) a área do quadrado que tem lado B.
 e) a área do retângulo que tem lados A e B.
+
+Exemplo: [AreasGeometricas.java](AreasGeometricas.java)

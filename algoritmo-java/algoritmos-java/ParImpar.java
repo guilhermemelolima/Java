@@ -3,11 +3,6 @@ import java.util.Scanner;
 public class ParImpar {
     public static void main(String []args){
         Scanner sc = new Scanner(System.in);
-           
-        
-        /*
-         * Fazer um programa para ler um número inteiro e dizer se este número é par ou impar
-        */
 
         System.out.print("\nDigite um valor: ");
         int numero = sc.nextInt();
