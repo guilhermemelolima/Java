@@ -1,0 +1,1 @@
+Aqui você encontrará exercícios de lógica e de programação orientada a objetos (POO), desenvolvidos para praticar os conceitos fundamentais da programação em Java.
